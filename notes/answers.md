@@ -1,0 +1,1 @@
+apt update sirf shops se packages ki naye versions ki list download karta hai, kuch install nahi karta. apt upgrade us list ke mutabiq purane packages ko naye versions par install karta hai. Pehle update chalate hain taake latest list mile, phir upgrade ya install. Ye Play Store mein “check for updates” aur “Update all” jaisa hai.
